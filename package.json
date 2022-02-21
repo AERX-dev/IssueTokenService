@@ -1,0 +1,18 @@
+{
+  "name": "token-issue-serv",
+  "version": "1.0.0",
+  "description": "issues tokens to post request accountId",
+  "main": "server.js",
+  "dependencies": {
+    "dotenv": "^16.0.0",
+    "express": "^4.17.3",
+    "near-api-js": "^0.44.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Inna!",
+  "license": "ISC"
+}
